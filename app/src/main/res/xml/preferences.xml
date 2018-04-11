@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >    
+     <PreferenceCategory
+         android:title = "@string/lexlbl">
+		<CheckBoxPreference
+			android:key="n5state"
+			android:title="@string/n5lbl"
+			android:summary="@string/n5summary"
+			android:defaultValue="true" />
+     </PreferenceCategory>
+     <PreferenceCategory
+         android:title="@string/signstypelbl">
+		<ListPreference android:key="transcrip" android:title="@string/choosetranscr" android:summary="@string/transcr_summary" android:defaultValue="1" android:entryValues="@array/transcr_values" android:entries="@array/transcr_entries" android:dialogTitle="@string/prefs_transcr_dial_title"/>
+     </PreferenceCategory>
+     <PreferenceCategory android:title="@string/testprepheadline">
+         <EditTextPreference 
+             android:title="@string/howmuchlbl" 
+             android:summary="@string/amount_summary" 
+             android:key="amount_of_q" 
+             android:defaultValue="3"
+             android:inputType="number" android:dialogTitle="@string/dialog_edit_title"/>
+         <EditTextPreference 
+             android:title="@string/timerheadlbl" 
+             android:summary="@string/timer_set_summary" 
+             android:key="timer_set" 
+             android:defaultValue="30"
+             android:inputType="number" android:dialogTitle="@string/dialog_edit_title"/>
+         <CheckBoxPreference 
+             android:key="on_state" 
+             android:summary="@string/on_summary" 
+             android:title="@string/on_title" 
+             android:defaultValue="true"/>
+         <CheckBoxPreference 
+             android:key="kun_state" 
+             android:defaultValue="true" 
+             android:title="@string/kun_title" 
+             android:summary="@string/kun_summary"/>
+         <CheckBoxPreference 
+             android:key="trans_state" 
+             android:defaultValue="true" 
+             android:summary="@string/trans_summary" 
+             android:title="@string/trans_title"/>
+         <CheckBoxPreference android:key="show_right" android:title="@string/show_right_answers_label" android:summary="@string/show_right_answers_summary" android:defaultValue="false"/>
+     </PreferenceCategory>
+</PreferenceScreen>

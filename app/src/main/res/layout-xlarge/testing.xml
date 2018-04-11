@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/test_main_back"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="25dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/timertext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1.7"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:id="@+id/testpic"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@string/kandji"
+                    android:scaleType="fitCenter" />
+
+            </LinearLayout>
+
+            <TableLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal">
+
+                <TableRow
+                    android:id="@+id/tableRow1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" android:paddingBottom="4dp">
+
+                    <Button
+                        android:id="@+id/testbtn1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:ems="15"
+                        android:maxLines="5"
+                        android:minLines="2" />
+
+                    <Button
+                        android:id="@+id/testbtn2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:ems="15"
+                        android:maxLines="5"
+                        android:minLines="2" />
+
+                </TableRow>
+
+                <TableRow
+                    android:id="@+id/tableRow2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal" android:paddingTop="3dp">
+
+                    <Button
+                        android:id="@+id/testbtn3"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:ems="15"
+                        android:maxLines="5"
+                        android:minLines="2" />
+
+                    <Button
+                        android:id="@+id/testbtn4"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:ems="15"
+                        android:maxLines="5"
+                        android:minLines="2" />
+
+                </TableRow>
+            </TableLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

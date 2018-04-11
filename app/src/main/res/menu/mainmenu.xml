@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" ><item android:id="@+id/menu_tutoring" android:title="@string/tutoringheadline" android:icon="@android:drawable/ic_menu_view"></item>
+    <item android:id="@+id/menu_testing" android:title="@string/testlbl" android:icon="@android:drawable/ic_menu_upload"></item>
+    <item android:id="@+id/menu_settings" android:title="@string/settingsheadline" android:icon="@android:drawable/ic_menu_preferences"></item>
+    <item android:id="@+id/menu_stat" android:title="@string/statisticsheadline" android:icon="@android:drawable/ic_menu_sort_by_size"></item>
+    <item android:id="@+id/menu_about" android:title="@string/about_headline" android:icon="@android:drawable/ic_menu_info_details"></item>
+    
+    
+
+</menu>

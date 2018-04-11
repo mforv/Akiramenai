@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\main.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\list_item.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\testing.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\testing.xml"
+    },
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\stats.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\tutoring.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\tutoring.xml"
+    },
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\about_layout.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\about_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\test_prepare.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\test_prepare.xml"
+    },
+    {
+        "merged": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\contents.xml",
+        "source": "C:\\Users\\mforv\\AndroidStudioProjects\\JapTutor\\app\\src\\main\\res\\layout-large\\contents.xml"
+    }
+]

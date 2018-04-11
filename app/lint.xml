@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ContentDescription">
+        <ignore path="res\layout\main.xml" />
+    </issue>
+    <issue id="ExtraText">
+        <ignore path="res\layout-xlarge\tutoring.xml" />
+    </issue>
+    <issue id="HardcodedText">
+        <ignore path="res\layout\main.xml" />
+    </issue>
+    <issue id="UselessParent">
+        <ignore path="res\layout-large\about_layout.xml" />
+        <ignore path="res\layout-large\testing.xml" />
+        <ignore path="res\layout-xlarge\about_layout.xml" />
+        <ignore path="res\layout-xlarge\testing.xml" />
+        <ignore path="res\layout\about_layout.xml" />
+        <ignore path="res\layout\main.xml" />
+        <ignore path="res\layout\test_prepare.xml" />
+        <ignore path="res\layout\testing.xml" />
+        <ignore path="res\layout\tutoring.xml" />
+    </issue>
+</lint>

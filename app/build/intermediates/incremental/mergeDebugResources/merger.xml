@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res"/><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\build\generated\res\rs\debug"/><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res"><file name="n501" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n501.png" qualifiers="" type="drawable"/><file name="n502" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n502.png" qualifiers="" type="drawable"/><file name="n503" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n503.png" qualifiers="" type="drawable"/><file name="n504" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n504.png" qualifiers="" type="drawable"/><file name="n505" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n505.png" qualifiers="" type="drawable"/><file name="n506" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n506.png" qualifiers="" type="drawable"/><file name="n507" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n507.png" qualifiers="" type="drawable"/><file name="n508" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n508.png" qualifiers="" type="drawable"/><file name="n509" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n509.png" qualifiers="" type="drawable"/><file name="n510" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n510.png" qualifiers="" type="drawable"/><file name="n511" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n511.png" qualifiers="" type="drawable"/><file name="n512" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n512.png" qualifiers="" type="drawable"/><file name="n513" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n513.png" qualifiers="" type="drawable"/><file name="n514" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n514.png" qualifiers="" type="drawable"/><file name="n515" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n515.png" qualifiers="" type="drawable"/><file name="n516" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n516.png" qualifiers="" type="drawable"/><file name="n517" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n517.png" qualifiers="" type="drawable"/><file name="n518" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n518.png" qualifiers="" type="drawable"/><file name="n519" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n519.png" qualifiers="" type="drawable"/><file name="n520" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n520.png" qualifiers="" type="drawable"/><file name="n521" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n521.png" qualifiers="" type="drawable"/><file name="n522" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n522.png" qualifiers="" type="drawable"/><file name="n523" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n523.png" qualifiers="" type="drawable"/><file name="n524" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n524.png" qualifiers="" type="drawable"/><file name="n525" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n525.png" qualifiers="" type="drawable"/><file name="n526" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n526.png" qualifiers="" type="drawable"/><file name="n527" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n527.png" qualifiers="" type="drawable"/><file name="n528" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n528.png" qualifiers="" type="drawable"/><file name="n529" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n529.png" qualifiers="" type="drawable"/><file name="n530" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n530.png" qualifiers="" type="drawable"/><file name="n531" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n531.png" qualifiers="" type="drawable"/><file name="n532" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n532.png" qualifiers="" type="drawable"/><file name="n533" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n533.png" qualifiers="" type="drawable"/><file name="n534" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n534.png" qualifiers="" type="drawable"/><file name="n535" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n535.png" qualifiers="" type="drawable"/><file name="n536" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n536.png" qualifiers="" type="drawable"/><file name="n537" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n537.png" qualifiers="" type="drawable"/><file name="n538" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n538.png" qualifiers="" type="drawable"/><file name="n539" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n539.png" qualifiers="" type="drawable"/><file name="n540" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n540.png" qualifiers="" type="drawable"/><file name="n541" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n541.png" qualifiers="" type="drawable"/><file name="n542" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n542.png" qualifiers="" type="drawable"/><file name="n543" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n543.png" qualifiers="" type="drawable"/><file name="n544" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n544.png" qualifiers="" type="drawable"/><file name="n545" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n545.png" qualifiers="" type="drawable"/><file name="n546" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n546.png" qualifiers="" type="drawable"/><file name="n547" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n547.png" qualifiers="" type="drawable"/><file name="n548" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n548.png" qualifiers="" type="drawable"/><file name="n549" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n549.png" qualifiers="" type="drawable"/><file name="n550" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n550.png" qualifiers="" type="drawable"/><file name="n551" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n551.png" qualifiers="" type="drawable"/><file name="n552" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n552.png" qualifiers="" type="drawable"/><file name="n553" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n553.png" qualifiers="" type="drawable"/><file name="n554" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n554.png" qualifiers="" type="drawable"/><file name="n555" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n555.png" qualifiers="" type="drawable"/><file name="n556" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n556.png" qualifiers="" type="drawable"/><file name="n557" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n557.png" qualifiers="" type="drawable"/><file name="n558" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n558.png" qualifiers="" type="drawable"/><file name="n559" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n559.png" qualifiers="" type="drawable"/><file name="n560" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n560.png" qualifiers="" type="drawable"/><file name="n561" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n561.png" qualifiers="" type="drawable"/><file name="n562" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n562.png" qualifiers="" type="drawable"/><file name="n563" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n563.png" qualifiers="" type="drawable"/><file name="n564" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n564.png" qualifiers="" type="drawable"/><file name="n565" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n565.png" qualifiers="" type="drawable"/><file name="n566" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n566.png" qualifiers="" type="drawable"/><file name="n567" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n567.png" qualifiers="" type="drawable"/><file name="n568" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n568.png" qualifiers="" type="drawable"/><file name="n569" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n569.png" qualifiers="" type="drawable"/><file name="n570" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n570.png" qualifiers="" type="drawable"/><file name="n571" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n571.png" qualifiers="" type="drawable"/><file name="n572" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n572.png" qualifiers="" type="drawable"/><file name="n573" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n573.png" qualifiers="" type="drawable"/><file name="n574" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n574.png" qualifiers="" type="drawable"/><file name="n575" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n575.png" qualifiers="" type="drawable"/><file name="n576" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n576.png" qualifiers="" type="drawable"/><file name="n577" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n577.png" qualifiers="" type="drawable"/><file name="n578" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n578.png" qualifiers="" type="drawable"/><file name="n579" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n579.png" qualifiers="" type="drawable"/><file name="n580" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\n580.png" qualifiers="" type="drawable"/><file name="orn501" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn501.png" qualifiers="" type="drawable"/><file name="orn502" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn502.png" qualifiers="" type="drawable"/><file name="orn503" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn503.png" qualifiers="" type="drawable"/><file name="orn504" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn504.png" qualifiers="" type="drawable"/><file name="orn505" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn505.png" qualifiers="" type="drawable"/><file name="orn506" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn506.png" qualifiers="" type="drawable"/><file name="orn507" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn507.png" qualifiers="" type="drawable"/><file name="orn508" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn508.png" qualifiers="" type="drawable"/><file name="orn509" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn509.png" qualifiers="" type="drawable"/><file name="orn510" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn510.png" qualifiers="" type="drawable"/><file name="orn511" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn511.png" qualifiers="" type="drawable"/><file name="orn512" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn512.png" qualifiers="" type="drawable"/><file name="orn513" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn513.png" qualifiers="" type="drawable"/><file name="orn514" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn514.png" qualifiers="" type="drawable"/><file name="orn515" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn515.png" qualifiers="" type="drawable"/><file name="orn516" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn516.png" qualifiers="" type="drawable"/><file name="orn517" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn517.png" qualifiers="" type="drawable"/><file name="orn518" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn518.png" qualifiers="" type="drawable"/><file name="orn519" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn519.png" qualifiers="" type="drawable"/><file name="orn520" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn520.png" qualifiers="" type="drawable"/><file name="orn521" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn521.png" qualifiers="" type="drawable"/><file name="orn522" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn522.png" qualifiers="" type="drawable"/><file name="orn523" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn523.png" qualifiers="" type="drawable"/><file name="orn524" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn524.png" qualifiers="" type="drawable"/><file name="orn525" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn525.png" qualifiers="" type="drawable"/><file name="orn526" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn526.png" qualifiers="" type="drawable"/><file name="orn527" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn527.png" qualifiers="" type="drawable"/><file name="orn528" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn528.png" qualifiers="" type="drawable"/><file name="orn529" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn529.png" qualifiers="" type="drawable"/><file name="orn530" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn530.png" qualifiers="" type="drawable"/><file name="orn531" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn531.png" qualifiers="" type="drawable"/><file name="orn532" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn532.png" qualifiers="" type="drawable"/><file name="orn533" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn533.png" qualifiers="" type="drawable"/><file name="orn534" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn534.png" qualifiers="" type="drawable"/><file name="orn535" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn535.png" qualifiers="" type="drawable"/><file name="orn536" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn536.png" qualifiers="" type="drawable"/><file name="orn537" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn537.png" qualifiers="" type="drawable"/><file name="orn538" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn538.png" qualifiers="" type="drawable"/><file name="orn539" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn539.png" qualifiers="" type="drawable"/><file name="orn540" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn540.png" qualifiers="" type="drawable"/><file name="orn541" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn541.png" qualifiers="" type="drawable"/><file name="orn542" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn542.png" qualifiers="" type="drawable"/><file name="orn543" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn543.png" qualifiers="" type="drawable"/><file name="orn544" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn544.png" qualifiers="" type="drawable"/><file name="orn545" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn545.png" qualifiers="" type="drawable"/><file name="orn546" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn546.png" qualifiers="" type="drawable"/><file name="orn547" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn547.png" qualifiers="" type="drawable"/><file name="orn548" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn548.png" qualifiers="" type="drawable"/><file name="orn549" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn549.png" qualifiers="" type="drawable"/><file name="orn550" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn550.png" qualifiers="" type="drawable"/><file name="orn551" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn551.png" qualifiers="" type="drawable"/><file name="orn552" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn552.png" qualifiers="" type="drawable"/><file name="orn553" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn553.png" qualifiers="" type="drawable"/><file name="orn554" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn554.png" qualifiers="" type="drawable"/><file name="orn555" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn555.png" qualifiers="" type="drawable"/><file name="orn556" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn556.png" qualifiers="" type="drawable"/><file name="orn557" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn557.png" qualifiers="" type="drawable"/><file name="orn558" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn558.png" qualifiers="" type="drawable"/><file name="orn559" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn559.png" qualifiers="" type="drawable"/><file name="orn560" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn560.png" qualifiers="" type="drawable"/><file name="orn561" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn561.png" qualifiers="" type="drawable"/><file name="orn562" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn562.png" qualifiers="" type="drawable"/><file name="orn563" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn563.png" qualifiers="" type="drawable"/><file name="orn564" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn564.png" qualifiers="" type="drawable"/><file name="orn565" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn565.png" qualifiers="" type="drawable"/><file name="orn566" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn566.png" qualifiers="" type="drawable"/><file name="orn567" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn567.png" qualifiers="" type="drawable"/><file name="orn568" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn568.png" qualifiers="" type="drawable"/><file name="orn569" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn569.png" qualifiers="" type="drawable"/><file name="orn570" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn570.png" qualifiers="" type="drawable"/><file name="orn571" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn571.png" qualifiers="" type="drawable"/><file name="orn572" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn572.png" qualifiers="" type="drawable"/><file name="orn573" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn573.png" qualifiers="" type="drawable"/><file name="orn574" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn574.png" qualifiers="" type="drawable"/><file name="orn575" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn575.png" qualifiers="" type="drawable"/><file name="orn576" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn576.png" qualifiers="" type="drawable"/><file name="orn577" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn577.png" qualifiers="" type="drawable"/><file name="orn578" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn578.png" qualifiers="" type="drawable"/><file name="orn579" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn579.png" qualifiers="" type="drawable"/><file name="orn580" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\orn580.png" qualifiers="" type="drawable"/><file name="zbutton_pressed_green" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\zbutton_pressed_green.xml" qualifiers="" type="drawable"/><file name="zbutton_pressed_red" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\zbutton_pressed_red.xml" qualifiers="" type="drawable"/><file name="z_app_mascot" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable\z_app_mascot.png" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="about_layout" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\about_layout.xml" qualifiers="" type="layout"/><file name="contents" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\contents.xml" qualifiers="" type="layout"/><file name="list_item" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\list_item.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="stats" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\stats.xml" qualifiers="" type="layout"/><file name="testing" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\testing.xml" qualifiers="" type="layout"/><file name="test_prepare" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\test_prepare.xml" qualifiers="" type="layout"/><file name="tutoring" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout\tutoring.xml" qualifiers="" type="layout"/><file name="about_layout" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\about_layout.xml" qualifiers="large-v4" type="layout"/><file name="contents" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\contents.xml" qualifiers="large-v4" type="layout"/><file name="list_item" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\list_item.xml" qualifiers="large-v4" type="layout"/><file name="main" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\main.xml" qualifiers="large-v4" type="layout"/><file name="stats" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\stats.xml" qualifiers="large-v4" type="layout"/><file name="testing" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\testing.xml" qualifiers="large-v4" type="layout"/><file name="test_prepare" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\test_prepare.xml" qualifiers="large-v4" type="layout"/><file name="tutoring" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-large\tutoring.xml" qualifiers="large-v4" type="layout"/><file name="about_layout" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\about_layout.xml" qualifiers="xlarge-v4" type="layout"/><file name="contents" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\contents.xml" qualifiers="xlarge-v4" type="layout"/><file name="list_item" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\list_item.xml" qualifiers="xlarge-v4" type="layout"/><file name="main" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\main.xml" qualifiers="xlarge-v4" type="layout"/><file name="stats" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\stats.xml" qualifiers="xlarge-v4" type="layout"/><file name="testing" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\testing.xml" qualifiers="xlarge-v4" type="layout"/><file name="test_prepare" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\test_prepare.xml" qualifiers="xlarge-v4" type="layout"/><file name="tutoring" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\layout-xlarge\tutoring.xml" qualifiers="xlarge-v4" type="layout"/><file name="mainmenu" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\menu\mainmenu.xml" qualifiers="" type="menu"/><file path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\values\n5.xml" qualifiers=""><string-array name="n5signs">
+		<item>一</item>
+		<item>二</item>
+		<item>三</item>
+		<item>四</item>
+		<item>五</item>
+		<item>六</item>
+		<item>七</item>
+		<item>八</item>
+		<item>九</item>
+		<item>十</item>
+		<item>百</item>
+		<item>千</item>
+		<item>万</item>
+		<item>父</item>
+		<item>母</item>
+		<item>友</item>
+		<item>女</item>
+		<item>男</item>
+		<item>人</item>
+		<item>子</item>
+		<item>日</item>
+		<item>月</item>
+		<item>火</item>
+		<item>水</item>
+		<item>木</item>
+		<item>金</item>
+		<item>土</item>
+		<item>本</item>
+		<item>休</item>
+		<item>語</item>
+		<item>年</item>
+		<item>午</item>
+		<item>前</item>
+		<item>後</item>
+		<item>時</item>
+		<item>間</item>
+		<item>毎</item>
+		<item>先</item>
+		<item>今</item>
+		<item>何</item>
+		<item>上</item>
+		<item>下</item>
+		<item>左</item>
+		<item>右</item>
+		<item>北</item>
+		<item>南</item>
+		<item>東</item>
+		<item>西</item>
+		<item>外</item>
+		<item>名</item>
+		<item>高</item>
+		<item>小</item>
+		<item>中</item>
+		<item>大</item>
+		<item>長</item>
+		<item>半</item>
+		<item>分</item>
+		<item>学</item>
+		<item>校</item>
+		<item>生</item>
+		<item>山</item>
+		<item>川</item>
+		<item>白</item>
+		<item>天</item>
+		<item>雨</item>
+		<item>電</item>
+		<item>気</item>
+		<item>車</item>
+		<item>国</item>
+		<item>円</item>
+		<item>話</item>
+		<item>聞</item>
+		<item>食</item>
+		<item>読</item>
+		<item>来</item>
+		<item>書</item>
+		<item>見</item>
+		<item>行</item>
+		<item>出</item>
+		<item>入</item>
+	</string-array><string-array name="n5image">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+		<item>4</item>
+        <item>5</item>
+	    <item>6</item>
+		<item>7</item>
+        <item>8</item>
+		<item>9</item>
+		<item>a</item>
+		<item>b</item>
+		<item>c</item>
+		<item>d</item>
+		<item>e</item>
+		<item>f</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>1a</item>
+		<item>1b</item>
+		<item>1c</item>
+		<item>1d</item>
+		<item>1e</item>
+		<item>1f</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+		<item>24</item>
+		<item>25</item>
+		<item>26</item>
+		<item>27</item>
+		<item>28</item>
+		<item>29</item>
+		<item>2a</item>
+		<item>2b</item>
+		<item>2c</item>
+		<item>2d</item>
+		<item>2e</item>
+		<item>2f</item>
+		<item>30</item>
+		<item>31</item>
+		<item>32</item>
+		<item>33</item>
+		<item>34</item>
+		<item>35</item>
+		<item>36</item>
+		<item>37</item>
+		<item>38</item>
+		<item>39</item>
+		<item>3a</item>
+		<item>3b</item>
+		<item>3c</item>
+		<item>3d</item>
+		<item>3e</item>
+		<item>3f</item>
+		<item>40</item>
+		<item>41</item>
+		<item>42</item>
+		<item>43</item>
+		<item>44</item>
+		<item>45</item>
+		<item>46</item>
+		<item>47</item>
+		<item>48</item>
+		<item>49</item>
+		<item>4a</item>
+		<item>4b</item>
+		<item>4c</item>
+		<item>4d</item>
+		<item>4e</item>
+		<item>4f</item>
+		<item>50</item>
+    </string-array><string-array name="n5writing">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+		<item>4</item>
+        <item>5</item>
+	    <item>6</item>
+		<item>7</item>
+        <item>8</item>
+		<item>9</item>
+		<item>a</item>
+		<item>b</item>
+		<item>c</item>
+		<item>d</item>
+		<item>e</item>
+		<item>f</item>
+		<item>10</item>
+		<item>11</item>
+		<item>12</item>
+		<item>13</item>
+		<item>14</item>
+		<item>15</item>
+		<item>16</item>
+		<item>17</item>
+		<item>18</item>
+		<item>19</item>
+		<item>1a</item>
+		<item>1b</item>
+		<item>1c</item>
+		<item>1d</item>
+		<item>1e</item>
+		<item>1f</item>
+		<item>20</item>
+		<item>21</item>
+		<item>22</item>
+		<item>23</item>
+		<item>24</item>
+		<item>25</item>
+		<item>26</item>
+		<item>27</item>
+		<item>28</item>
+		<item>29</item>
+		<item>2a</item>
+		<item>2b</item>
+		<item>2c</item>
+		<item>2d</item>
+		<item>2e</item>
+		<item>2f</item>
+		<item>30</item>
+		<item>31</item>
+		<item>32</item>
+		<item>33</item>
+		<item>34</item>
+		<item>35</item>
+		<item>36</item>
+		<item>37</item>
+		<item>38</item>
+		<item>39</item>
+		<item>3a</item>
+		<item>3b</item>
+		<item>3c</item>
+		<item>3d</item>
+		<item>3e</item>
+		<item>3f</item>
+		<item>40</item>
+		<item>41</item>
+		<item>42</item>
+		<item>43</item>
+		<item>44</item>
+		<item>45</item>
+		<item>46</item>
+		<item>47</item>
+		<item>48</item>
+		<item>49</item>
+		<item>4a</item>
+		<item>4b</item>
+		<item>4c</item>
+		<item>4d</item>
+		<item>4e</item>
+		<item>4f</item>
+		<item>50</item>
+	</string-array><string-array name="n5on">
+        <item>イチ</item>
+        <item>ニ</item>
+        <item>サン</item>
+        <item>シ</item>
+        <item>ゴ</item>
+        <item>ロク</item>
+        <item>シチ</item>
+		<item>ハチ</item>
+		<item>ク キュウ</item>
+		<item>ジュウ</item>
+		<item>ヒャク</item>
+		<item>セン</item>
+		<item>バン マン</item>
+		<item>フ</item>
+		<item>ボ</item>
+		<item>ユウ</item>
+		<item>ジョ ニョ</item>
+		<item>ダン ナン</item>
+		<item>ジン ニン</item>
+		<item>シ ス</item>
+		<item>ジツ ニチ</item>
+		<item>ゲツ ガツ</item>
+		<item>カ</item>
+		<item>スイ</item>
+		<item>ボク モク</item>
+		<item>キン コン</item>
+		<item>ド ト</item>
+		<item>ホン</item>
+		<item>キュウ</item>
+		<item>ゴ</item>
+		<item>ネン</item>
+		<item>ゴ</item>
+		<item>ゼン</item>
+		<item>ゴ コウ</item>
+		<item>ジ</item>
+		<item>カン ケン</item>
+		<item>マイ</item>
+		<item>セン</item>
+		<item>コン キン</item>
+		<item>カ</item>
+		<item>ジョウ</item>
+		<item>カ ゲ</item>
+		<item>サ シャ</item>
+		<item>ウ ユウ</item>
+		<item>ホク</item>
+		<item>ナン</item>
+		<item>トウ</item>
+		<item>セイ サイ</item>
+		<item>ガイ ゲ</item>
+		<item>メイ ミョウ</item>
+		<item>コウ</item>
+		<item>ショウ</item>
+		<item>チュウ</item>
+		<item>ダイ タイ</item>
+		<item>チョウ</item>
+		<item>ハン</item>
+		<item>フン ブン</item>
+		<item>ガク</item>
+		<item>コウ</item>
+		<item>セイ ショウ</item>
+		<item>サン</item>
+		<item>セン</item>
+		<item>ハク ビャク</item>
+		<item>テン</item>
+		<item>ウ</item>
+		<item>デン</item>
+		<item>キ ケ</item>
+		<item>シャ</item>
+		<item>コク</item>
+		<item>エン</item>
+		<item>ワ</item>
+		<item>ブン</item>
+		<item>ジキ ショク</item>
+		<item>ドク トク</item>
+		<item>ライ</item>
+		<item>ショ</item>
+		<item>ケン</item>
+		<item>ギョウ コウ アン </item>
+		<item>シュツ スイ</item>
+		<item>ニュウ</item>
+    </string-array><string-array name="n5onrom">
+		<item>ICHI, ITSU</item>
+		<item>NI</item>
+		<item>SAN</item>
+		<item>SHI</item>
+		<item>GO</item>
+		<item>ROKU</item>
+		<item>SHICHI</item>
+		<item>HACHI</item>
+		<item>KU, KYŪ</item>
+		<item>JŪ</item>
+		<item>HYAKU</item>
+		<item>SEN</item>
+		<item>BAN, MAN</item>
+		<item>FU</item>
+		<item>BO</item>
+		<item>YŪ</item>
+		<item>JO, NYO</item>
+		<item>DAN, NAN</item>
+		<item>JIN, NIN</item>
+		<item>SHI, SU</item>
+		<item>JITSU, NICHI</item>
+		<item>GETSU, GATSU</item>
+		<item>KA</item>
+		<item>SUI</item>
+		<item>BOKU, MOKU</item>
+		<item>KIN, KON</item>
+		<item>DO, TO</item>
+		<item>HON</item>
+		<item>KYŪ</item>
+		<item>GO</item>
+		<item>NEN</item>
+		<item>GO</item>
+		<item>ZEN</item>
+		<item>GO, KŌ</item>
+		<item>JI</item>
+		<item>KAN, KEN</item>
+		<item>MAI</item>
+		<item>SEN</item>
+		<item>KON, KIN</item>
+		<item>KA</item>
+		<item>JYŌ</item>
+		<item>KA, GE</item>
+		<item>SA, SHA</item>
+		<item>U, YŪ</item>
+		<item>HOKU</item>
+		<item>NAN</item>
+		<item>TŌ</item>
+		<item>SEI, SAI</item>
+		<item>GAI, GE</item>
+		<item>MEI, MYŌ</item>
+		<item>KŌ</item>
+		<item>SHŌ</item>
+		<item>CHŪ</item>
+		<item>DAI, TAI</item>
+		<item>CHŌ</item>
+		<item>HAN</item>
+		<item>FUN, BUN</item>
+		<item>GAKU</item>
+		<item>KŌ</item>
+		<item>SEI, SHŌ</item>
+		<item>SAN</item>
+		<item>SEN</item>
+		<item>HAKU, BYAKU</item>
+		<item>TEN</item>
+		<item>U</item>
+		<item>DEN</item>
+		<item>KA, KE</item>
+		<item>SHA</item>
+		<item>KOKU</item>
+		<item>EN</item>
+		<item>WA</item>
+		<item>BUN</item>
+		<item>JIKI, SHOKU</item>
+		<item>DOKU, TOKU</item>
+		<item>RAI</item>
+		<item>SHO</item>
+		<item>KEN</item>
+		<item>GYŌ, KŌ, AN</item>
+		<item>SHUTSU, SUI</item>
+		<item>NYŪ</item>
+	</string-array><string-array name="n5oncyr">
+		<item>ИТИ</item>
+		<item>НИ</item>
+		<item>САН</item>
+		<item>СИ</item>
+		<item>ГО</item>
+		<item>РОКУ</item>
+		<item>СИТИ</item>
+		<item>ХАТИ</item>
+		<item>КУ, КЮ:</item>
+		<item>ДЗЮ:</item>
+		<item>ХЯКУ</item>
+		<item>СЭН</item>
+		<item>БАН, МАН</item>
+		<item>ФУ</item>
+		<item>БО</item>
+		<item>Ю:</item>
+		<item>ДЗЁ, НЁ</item>
+		<item>ДАН, НАН</item>
+		<item>ДЗИН, НИН</item>
+		<item>СИ, СУ</item>
+		<item>ДЗИЦУ, НИТИ</item>
+		<item>ГЭЦУ, ГАЦУ</item>
+		<item>КА</item>
+		<item>СУЙ</item>
+		<item>БОКУ, МОКУ</item>
+		<item>КИН, КОН</item>
+		<item>ДО, ТО</item>
+		<item>ХОН</item>
+		<item>КЮ:</item>
+		<item>ГО</item>
+		<item>НЭН</item>
+		<item>ГО</item>
+		<item>ДЗЭН</item>
+		<item>ГО, КО:</item>
+		<item>ДЗИ</item>
+		<item>КАН, КЭН</item>
+		<item>МАЙ</item>
+		<item>СЭН</item>
+		<item>КОН, КИН</item>
+		<item>КА</item>
+		<item>ДЗЁ:</item>
+		<item>КА, ГЭ</item>
+		<item>СА, СЯ</item>
+		<item>У, Ю:</item>
+		<item>ХОКУ</item>
+		<item>НАН</item>
+		<item>ТО:</item>
+		<item>СЭЙ, САЙ</item>
+		<item>ГАЙ, ГЭ</item>
+		<item>МЭЙ, МЁ:</item>
+		<item>КО:</item>
+		<item>СЁ:</item>
+		<item>ТЮ:</item>
+		<item>ДАЙ, ТАЙ</item>
+		<item>ТЁ:</item>
+		<item>ХАН</item>
+		<item>ФУН, БУН</item>
+		<item>ГАКУ</item>
+		<item>КО:</item>
+		<item>СЭЙ, СЁ:</item>
+		<item>САН</item>
+		<item>СЭН</item>
+		<item>ХАКУ, БЯКУ</item>
+		<item>ТЭН</item>
+		<item>У</item>
+		<item>ДЭН</item>
+		<item>КА, КЭ</item>
+		<item>СЯ</item>
+		<item>КОКУ</item>
+		<item>ЭН</item>
+		<item>ВА</item>
+		<item>БУН</item>
+		<item>ДЗИКИ, СЁКУ</item>
+		<item>ДОКУ, ТОКУ</item>
+		<item>РАЙ</item>
+		<item>СЁ:</item>
+		<item>КЭН</item>
+		<item>ГЁ:, КО:, АН</item>
+		<item>СУЦУ, СУЙ</item>
+		<item>НЮ:</item>
+	</string-array><string-array name="n5kun">
+        <item>ひと.つ</item>
+        <item>ふた.つ</item>
+        <item>み みっ.つ</item>
+		<item>よん よ よっ.つ</item>
+		<item>いつ いつ.つ</item>
+		<item>むっ.つ</item>
+		<item>なな.つ</item>
+		<item>やっ.つ</item>
+		<item>ここの.つ</item>
+		<item>とお</item>
+		<item>もも</item>
+		<item>ち</item>
+		<item>よろず</item>
+		<item>ちち とう</item>
+		<item>はは かあ</item>
+		<item>とも</item>
+		<item>おんな</item>
+		<item>おとこ</item>
+		<item>ひと</item>
+		<item>こ</item>
+		<item>ひ か</item>
+		<item>つき</item>
+		<item>ひ</item>
+		<item>みず</item>
+		<item>き</item>
+		<item>かね</item>
+		<item>つち</item>
+		<item>もと</item>
+		<item>やす.み やす.む</item>
+		<item>かたり かた.る</item>
+		<item>とし</item>
+		<item>-</item>
+		<item>まえ</item>
+		<item>うし.ろ のち あと</item>
+		<item>とき</item>
+		<item>あいだ ま</item>
+		<item>ごと</item>
+		<item>さき</item>
+		<item>いま</item>
+		<item>なに なん</item>
+		<item>うえ あ.げる あ.がる のぼ.る</item>
+		<item>した さ.げる さ.がる くだ.る</item>
+		<item>ひだり</item>
+		<item>みぎ</item>
+		<item>きた</item>
+		<item>みなみ</item>
+		<item>ひがし</item>
+		<item>にし</item>
+		<item>ほか そと</item>
+		<item>な</item>
+		<item>たか.い</item>
+		<item>こ お ちい.さい</item>
+		<item>なか</item>
+		<item>おお.きい</item>
+		<item>なが.い</item>
+		<item>なか.ば</item>
+		<item>わ.ける わか.る</item>
+		<item>まな.ぶ</item>
+		<item>-</item>
+		<item>う.む い.きる なま</item>
+		<item>やま</item>
+		<item>かわ</item>
+		<item>しら しろ.い</item>
+		<item>あまつ あめ</item>
+		<item>あめ あま</item>
+		<item>-</item>
+		<item>-</item>
+		<item>くるま</item>
+		<item>くに</item>
+		<item>まる.い</item>
+		<item>はなし はな.す</item>
+		<item>き.く</item>
+		<item>く.う た.べる</item>
+		<item>よ.む</item>
+		<item>く.る きた.る</item>
+		<item>か.く</item>
+		<item>み.る み.せる</item>
+		<item>い.く ゆ.く おこな.う</item>
+		<item>だ.す で.る</item>
+		<item>い.る い.れる はい.る</item>
+    </string-array><string-array name="n5kunrom">
+		<item>hito(tsu)</item>
+		<item>futa(tsu)</item>
+		<item>mi, mit(tsu)</item>
+		<item>yon, yo, yot(tsu)</item>
+		<item>itsu, itsu(tsu)</item>
+		<item>mut(tsu)</item>
+		<item>nana(tsu)</item>
+		<item>yat(tsu)</item>
+		<item>kokono(tsu)</item>
+		<item>tō</item>
+		<item>momo</item>
+		<item>chi</item>
+		<item>yorozu</item>
+		<item>chichi, tō</item>
+		<item>haha, kā</item>
+		<item>tomo</item>
+		<item>onna</item>
+		<item>otoko</item>
+		<item>hito</item>
+		<item>ko</item>
+		<item>hi, ka</item>
+		<item>tsuki</item>
+		<item>hi</item>
+		<item>mizu</item>
+		<item>ki</item>
+		<item>kane</item>
+		<item>tsuchi</item>
+		<item>moto</item>
+		<item>yasu(mi), yasu(mu)</item>
+		<item>katari, kata(ru)</item>
+		<item>toshi</item>
+		<item>-</item>
+		<item>mae</item>
+		<item>ushi(ro), nochi, ato</item>
+		<item>toki</item>
+		<item>aida, ma</item>
+		<item>goto</item>
+		<item>saki</item>
+		<item>ima</item>
+		<item>nani, nan</item>
+		<item>ue, a(geru), a(garu), nobo(ru)</item>
+		<item>shita, sa(geru), sa(garu), kuda(ru)</item>
+		<item>hidari</item>
+		<item>migi</item>
+		<item>kita</item>
+		<item>minami</item>
+		<item>higashi</item>
+		<item>nishi</item>
+		<item>hoka, soto</item>
+		<item>na</item>
+		<item>taka(i)</item>
+		<item>ko, o, chi(sai)</item>
+		<item>naka</item>
+		<item>oo(kii)</item>
+		<item>naga(i)</item>
+		<item>naka(ba)</item>
+		<item>wa(keru), waka(ru)</item>
+		<item>mana(bu)</item>
+		<item>-</item>
+		<item>u(mu), i(kiru), nama</item>
+		<item>yama</item>
+		<item>kawa</item>
+		<item>shira, shiro(i)</item>
+		<item>amatsu, ame</item>
+		<item>ame, ama</item>
+		<item>-</item>
+		<item>-</item>
+		<item>kuruma</item>
+		<item>kuni</item>
+		<item>maru(i)</item>
+		<item>hanashi, hana(su)</item>
+		<item>ki(ku)</item>
+		<item>ku(u), ta(beru)</item>
+		<item>yo(mu)</item>
+		<item>ku(ru), kita(ru)</item>
+		<item>ka(ku)</item>
+		<item>mi(ru), mi(seru)</item>
+		<item>i(ku), yu(ku), okona(u)</item>
+		<item>da(su), de(ru)</item>
+		<item>i(ru), i(reru), hai(ru)</item>
+	</string-array><string-array name="n5kuncyr">
+		<item>хйто(цу)</item>
+		<item>фўта(цу)</item>
+		<item>ми, мит(цу)</item>
+		<item>ён, ё, ёт(тцу)</item>
+		<item>ицу, ицу(цу)</item>
+		<item>мут(цу)</item>
+		<item>нана(цу)</item>
+		<item>ят(цу)</item>
+		<item>коконо(цу)</item>
+		<item>то:</item>
+		<item>момо</item>
+		<item>ти</item>
+		<item>ёродзу</item>
+		<item>тити, то:</item>
+		<item>хаха, ка:</item>
+		<item>томо</item>
+		<item>онна</item>
+		<item>отоко</item>
+		<item>хйто</item>
+		<item>ко</item>
+		<item>ха, ка</item>
+		<item>цўки</item>
+		<item>хи</item>
+		<item>мидзу</item>
+		<item>ки</item>
+		<item>канэ</item>
+		<item>цўти</item>
+		<item>мото</item>
+		<item>ясу(ми), ясу(му)</item>
+		<item>катари, ката(ру)</item>
+		<item>тоси</item>
+		<item>-</item>
+		<item>маэ</item>
+		<item>уси(ро), ноти, ато</item>
+		<item>токи</item>
+		<item>айда, ма</item>
+		<item>гото</item>
+		<item>саки</item>
+		<item>има</item>
+		<item>нани, нан</item>
+		<item>уэ, а(гэру), а(гару), нобо(ру)</item>
+		<item>сита, са(гэру), са(гару), куда(ру)</item>
+		<item>хидари</item>
+		<item>миги</item>
+		<item>кйта</item>
+		<item>минами</item>
+		<item>хигаси</item>
+		<item>ниси</item>
+		<item>хока, сото</item>
+		<item>на</item>
+		<item>така(й)</item>
+		<item>ко, о, ти:(сай)</item>
+		<item>нака</item>
+		<item>о:(кий)</item>
+		<item>нага(й)</item>
+		<item>нака(ба)</item>
+		<item>ва(кэру), вака(ру)</item>
+		<item>мана(бу)</item>
+		<item>-</item>
+		<item>у(му), и(киру), нама</item>
+		<item>яма</item>
+		<item>кава</item>
+		<item>сира, сиро(й)</item>
+		<item>амацу, амэ</item>
+		<item>амэ, ама</item>
+		<item>-</item>
+		<item>-</item>
+		<item>курума</item>
+		<item>куни</item>
+		<item>мару(й)</item>
+		<item>ханаси, хана(су)</item>
+		<item>ки(ку)</item>
+		<item>ку(у), та(бэру)</item>
+		<item>ё(му)</item>
+		<item>ку(ру), кита(ру)</item>
+		<item>ка(ку)</item>
+		<item>ми(ру), ми(сэру)</item>
+		<item>и(ку), ю(ку), окона(у)</item>
+		<item>да(су), дэ(ру)</item>
+		<item>и(ру), и(рэру), хай(ру)</item>
+	</string-array><string-array name="n5translation">
+        <item>один, целый</item>
+        <item>два</item>
+        <item>три</item>
+		<item>четыре</item>
+		<item>пять</item>
+		<item>шесть</item>
+		<item>семь</item>
+		<item>восемь</item>
+		<item>девять</item>
+		<item>десять</item>
+		<item>сто</item>
+		<item>тысяча</item>
+		<item>десять тысяч</item>
+		<item>отец</item>
+		<item>мать</item>
+		<item>друг</item>
+		<item>женщина, женский</item>
+		<item>мужчина, мужской</item>
+		<item>человек, личность; счетный суффикс для людей</item>
+		<item>ребенок</item>
+		<item>день, солнце, Япония; счетный суффикс для дней</item>
+		<item>месяц (календарный), луна</item>
+		<item>огонь</item>
+		<item>вода</item>
+		<item>дерево, древесина</item>
+		<item>золото, металл; деньги</item>
+		<item>земля; почва; соль</item>
+		<item>начало; книга; счетный суффикс для предметов</item>
+		<item>отдых, каникулы; отдыхать</item>
+		<item>слово, речь; повествование; язык; говорить</item>
+		<item>год</item>
+		<item>полдень</item>
+		<item>перед, впереди, предыдущий</item>
+		<item>позади, после</item>
+		<item>время; счетный суффикс для часов</item>
+		<item>пространство; комната; время; интервал</item>
+		<item>каждый (префикс)</item>
+		<item>предыдущий, впереди</item>
+		<item>сейчас, настоящее время</item>
+		<item>что, сколько</item>
+		<item>верх, над; поднимать; вставать, подниматься; подниматься, двигаться к Токио</item>
+		<item>низ, под; вешать, опускать; свисать, опускаться; спускаться, удаляться от Токио</item>
+		<item>лево</item>
+		<item>право</item>
+		<item>север</item>
+		<item>юг</item>
+		<item>восток</item>
+		<item>запад</item>
+		<item>чужой, иностранный; иной; вне, снаружи</item>
+		<item>имя; репутация</item>
+		<item>высокий, дорогой</item>
+		<item>небольшой</item>
+		<item>средний, внтуренний</item>
+		<item>большой, великий</item>
+		<item>глава организации; длинный</item>
+		<item>половина</item>
+		<item>минута; часть; делить; понимать</item>
+		<item>наука, учение; учиться</item>
+		<item>школа; исследовать, думать, сравнивать, исправлять</item>
+		<item>жизнь; родить; жить; сырой</item>
+		<item>гора</item>
+		<item>река</item>
+		<item>белый</item>
+		<item>небо, небеса</item>
+		<item>дождь</item>
+		<item>электричество</item>
+		<item>дух, энергия; настроение</item>
+		<item>колесо, средство передвижения; автомобиль</item>
+		<item>страна</item>
+		<item>круг; иена</item>
+		<item>рассказ; говорить</item>
+		<item>слушать, задавать вопросы, повиноваться</item>
+		<item>еда; есть, кушать; питаться</item>
+		<item>читать</item>
+		<item>приходить</item>
+		<item>писать</item>
+		<item>смотреть, видеть</item>
+		<item>идти, вести, приводить</item>
+		<item>выходить наружу, показываться; вынимать, выставлять, выносить</item>
+		<item>вхождение, посещение, входить</item>
+    </string-array></file><file path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\values\pref_arrays.xml" qualifiers=""><string-array name="transcr_entries">
+		<item>Кана (слоговая азбука)</item>
+		<item>Система Хэпберна (латиница)</item>
+		<item>Система Поливанова (кириллица)</item>
+	</string-array><string-array name="transcr_values">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+	</string-array></file><file path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Akiramenai</string><string name="read1">Онъёми</string><string name="read2">Кунъёми</string><string name="translate">Перевод</string><string name="paint">Начертание</string><string name="testlbl">Тесты</string><string name="nextlbl">>>></string><string name="prevlbl">&lt;&lt;&lt;</string><string name="randsign">Случайный</string><string name="lexlbl">Активные словари</string><string name="n5lbl">n5</string><string name="n4lbl">n4</string><string name="howmuchlbl">Количество вопросов</string><string name="stattestlbl">Новый тест</string><string name="signstypelbl">Транскрипция</string><string name="plusstr">+</string><string name="minusstr">-</string><string name="questno">3</string><string name="timerheadlbl">Время на ответ (секунды)</string><string name="timerdef">30</string><string name="testbodyheadline">Тест</string><string name="testprepheadline">Настройка теста</string><string name="statisticsheadline">Статистика</string><string name="tutoringheadline">Обучение</string><string name="test_amount_label">Всего выполнено тестов:</string><string name="question_amount_label">Общее количество вопросов:</string><string name="right_answers_label">Правильных ответов:</string><string name="right_answers_percent_label">Процент правильных ответов:</string><string name="n5summary">Словарь уровня N5</string><string name="choosetranscr">Транскрипция</string><string name="settingsheadline">Настройки</string><string name="hello">d30 Studio</string><string name="amount_summary">Количество вопросов в тесте по умолчанию</string><string name="timer_set_summary">Количество секунд по умолчанию для выбора ответа</string><string name="on_amount">Выполнено заданий по онъёми:</string><string name="stat_cat_general">Общая статистика</string><string name="stat_cat_on">Статистика по онъёми</string><string name="stat_cat_kun">Статистика по кунъёми</string><string name="kun_amount">Выполнено заданий по кунъёми:</string><string name="stat_cat_trans">Статистика по переводу</string><string name="trans_amount">Выполнено заданий по переводу</string><string name="on_title">Задания по онъёми</string><string name="on_summary">Использовать в тестах задания на выбор правильного онного чтения</string><string name="kun_title">Задания по кунъёми</string><string name="kun_summary">Использовать в тестах задания на выбор правильного кунного чтения</string><string name="trans_title">Задания по переводу</string><string name="trans_summary">Использовать в тестах задания на выбор правильного перевода</string><string name="kandji">Кандзи</string><string name="dialog_edit_title">Новое значение</string><string name="tablet_label_manage">Управление</string><string name="tablet_label_navigation">Навигация</string><string name="stats_clean">Обнулить статистику</string><string name="show_right_answers_label">Показывать правильные ответы</string><string name="show_right_answers_summary">Подсвечивать правильный ответ даже при выборе неправильного варианта</string><string name="about_headline">О программе</string><string name="app_version">Версия 1.1 (build 290813)</string><string name="app_about">Приложение для помощи в изучении японского языка и подготовке к экзамену Нихонго норёку сикэн (Japanese-Language Proficiency Test).</string><string name="app_developers_title">Разработка:</string><string name="app_developers_2">Идея и подготовка словарей:</string><string name="app_developers_3">Тестирование:</string><string name="app_developers_1">Программирование и интерфейс:</string><string name="app_materials">Материалы:</string><string name="examples_button_title">Примеры употребления</string><string name="app_lists">Списки уровней N5 и N4</string><string name="app_link_lists">http://en.wikibooks.org/wiki/JLPT_Guide</string><string name="app_link_stroke_order">http://commons.wikimedia.org/wiki/Commons:Stroke_Order_Project/Kangxi_radicals</string><string name="app_stroke_order">Порядок начертания</string><string name="app_license_title">Лицензия</string><string name="app_full_text">Полный текст лицензии</string><string name="app_cc_by_nc_sa">Приложение распространяется по лицензии Creative Commons Attribution-NonCommercial-ShareAlike 3.0</string><string name="app_cc_by_sa">Материалы распространяются по лицензии Creative Commons Attribution-ShareAlike 3.0</string><string name="app_logo_description">Логотип приложения</string><string name="app_about_dev_blog">Подробная информация и контакт с разработчиками:</string><string name="app_dev_ya">Д. Яруллин</string><string name="app_dev_ir">И. Иванова</string><string name="app_dev_eg">Е. Федюков</string><string name="app_dev_blog_ref">http://akiramenai.ru</string><string name="app_dev_logo">Akiramenai</string><string name="transcr_summary">Выберите используемую транскрипцию</string><string name="prefs_transcr_dial_title">Выберите транскрипцию</string></file><file name="preferences" path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\main\res\xml\preferences.xml" qualifiers="" type="xml"/></source><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\build\generated\res\rs\debug"/><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\mforv\AndroidStudioProjects\JapTutor\app\src\debug\res"/></dataSet><mergedItems/></merger>
